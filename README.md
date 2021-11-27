@@ -1,0 +1,4 @@
+- 👋 Hi, I’m UdayGhorapade
+- 👀 I’m interested in Artificial intilligence 
+- 🌱 I’m currently learning advance data science course
+- 📫 You can reach me at Uday
