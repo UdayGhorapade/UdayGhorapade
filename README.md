@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Uday Ghorapade
 - 👀 I’m interested in Artificial intilligence 
 - 🌱 I’m currently learning advance data science course
-- 📫 You can reach me at Uday
+- 📫 You can reach me at https://github.com/Udayghorapade
